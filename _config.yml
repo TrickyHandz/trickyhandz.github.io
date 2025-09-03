@@ -1,0 +1,7 @@
+# Minimal config for GitHub Pages
+title: Timothy McDaniel
+description: XR/VR Software Engineer · Unity Developer · Instructional Design & Training
+theme: jekyll-theme-cayman
+# Set a baseurl if you serve from a subpath; leave empty for user/organization sites
+baseurl: ""
+# Set your Twitter/GitHub/etc usernames here if you add a theme that uses them
